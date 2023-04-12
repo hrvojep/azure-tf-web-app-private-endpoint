@@ -11,3 +11,5 @@ terraform plan
 terraform apply
 terraform destory
 ````
+
+To test that the deployment went ok, go to the provisioned VM in the Azure Portal and connect to it via already provisioned Bastion Host.
