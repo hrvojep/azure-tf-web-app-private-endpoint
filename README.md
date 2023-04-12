@@ -4,7 +4,7 @@ This terrafrom project creates a sample linux Web App (deployed in a Docker Cont
 
 To change the name of the app, change the app_name variable default vaule in main.tf
 
-In order to run the apply follow the usual Terraform workflow
+To provision the example follow the usual Terraform workflow
 ```
 terraform init
 terraform plan
